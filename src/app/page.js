@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 // A list of quotes to display
 const quotes = [
-  { id: 1, text: "mn lagar kr padho tv baat krne me v mn lgega", author: "Ni3" },
+  { id: 1, text: "mn lagar kr padho tabhi to baat krne me v mn lgega", author: "Ni3" },
   { id: 2, text: "padhogi nhi to placement kasie milega, fir ghumogi kaise mere sath , padho 1 ghanta hi km se km", author: "Ni3" },
   { id: 3, text: "kv hmse baat v kr lo", author: "Ni3" },
   { id: 4, text: "Exam aa gya h or tm reel dekhne ka soch rhi ho book ki jagah", author: "Ni3" }
