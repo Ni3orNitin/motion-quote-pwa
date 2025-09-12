@@ -5,10 +5,10 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 // A list of quotes to display
 const quotes = [
-  { id: 1, text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
-  { id: 2, text: "Believe you can and you're halfway there.", author: "Theodore Roosevelt" },
-  { id: 3, text: "The future belongs to those who believe in the beauty of their dreams.", author: "Eleanor Roosevelt" },
-  { id: 4, text: "It does not matter how slowly you go as long as you do not stop.", author: "Confucius" }
+  { id: 1, text: "mn lagar kr padho tv baat krne me v mn lgega", author: "Ni3" },
+  { id: 2, text: "padhogi nhi to placement kasie milega, fir ghumogi kaise mere sath , padho 1 ghanta hi km se km", author: "Ni3" },
+  { id: 3, text: "kv hmse baat v kr lo", author: "Ni3" },
+  { id: 4, text: "Exam aa gya h or tm reel dekhne ka soch rhi ho book ki jagah", author: "Ni3" }
 ];
 
 // Animation variants for the quote
