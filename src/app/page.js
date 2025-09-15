@@ -8,7 +8,10 @@ const quotes = [
   { id: 1, text: "mn lagar kr padho tabhi to baat krne me v mn lgega", author: "Ni3" },
   { id: 2, text: "padhogi nhi to placement kasie milega, fir ghumogi kaise mere sath , padho 1 ghanta hi km se km", author: "Ni3" },
   { id: 3, text: "kv hmse baat v kr lo", author: "Ni3" },
-  { id: 4, text: "Exam aa gya h or tm reel dekhne ka soch rhi ho book ki jagah", author: "Ni3" }
+  { id: 4, text: "Exam aa gya h or tm reel dekhne ka soch rhi ho book ki jagah", author: "Ni3" },
+  { id: 4, text: "Snap one time mt bheja kro save nhi hota h", author: "Ni3" },
+  { id: 5, text: "thoda sa hm pr dhyan dogi to dhyan bhatak nhi jayega padhai se", author: "Ni3" },
+  { id: 4, text: "kv kv mera v photo dekh liya kro mood achha rahega", author: "Ni3" }
 ];
 
 // Animation variants for the quote
