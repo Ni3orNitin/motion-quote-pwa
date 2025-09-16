@@ -11,7 +11,9 @@ const quotes = [
   { id: 4, text: "Exam aa gya h or tm reel dekhne ka soch rhi ho book ki jagah", author: "Ni3" },
   { id: 4, text: "Snap one time mt bheja kro save nhi hota h", author: "Ni3" },
   { id: 5, text: "thoda sa hm pr dhyan dogi to dhyan bhatak nhi jayega padhai se", author: "Ni3" },
-  { id: 4, text: "kv kv mera v photo dekh liya kro mood achha rahega", author: "Ni3" }
+  { id: 4, text: "kv kv mera v photo dekh liya kro mood achha rahega", author: "Ni3" },
+  { id: 4, text: "tum kisi or ke sath photo lo ya tumhari ko or photo le, hme psnd nhi", author: "Lovely" }
+
 ];
 
 // Animation variants for the quote
